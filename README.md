@@ -1,2 +1,2 @@
 # JavaScript-Game-
-This Repo Contains My JavaScript Games
+Snake Water Gun
